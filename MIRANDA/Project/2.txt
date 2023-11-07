@@ -1,0 +1,30 @@
+<html>
+
+<head>
+
+<title> SECOND FACT ABOUT THE MOON </title>
+</head>
+
+<body background="star.gif">
+<font face="CASTELLAR" size=7 color="yellow"> 
+<p align=center> SECOND FACT ABOUT THE MOON </font> 
+<br>
+
+<hr width=500 height=100 color=black noshade>
+<p align=center>
+<font face="Agency FB" size=7 color="yellow"> DID YOU KNOW? </p>
+
+The moon has no atmosphere, which means it has no protection from cosmic rays, meteorites, and solar winds. It also has no sound and a black sky, since there is no air to scatter light. The temperature on the moon varies greatly, from -233°C to 123°C, depending on whether it is exposed to the sun or not.
+
+<hr width=500 height=100 color=black noshade>
+<p align=left>
+<font face="Agency FB" size=5 color="yellow"> 
+<a href="D:\MIRANDA\Project\1.html"> LAST PAGE </a> </p>
+
+<p align=right>
+<font face="Agency FB" size=5 color="yellow"> 
+<a href="D:\MIRANDA\Project\3.html"> NEXT PAGE </a> </p>
+
+<p align=center>
+<font face="Agency FB" size=5 color="yellow"> 
+<a href="D:\MIRANDA\Project\HOMEPAGE.html"> HOME PAGE </a> </p>

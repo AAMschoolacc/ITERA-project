@@ -1,0 +1,30 @@
+<html>
+
+<head>
+
+<title> FOURTH FACT ABOUT THE MOON </title>
+</head>
+
+<body background="star.gif">
+<font face="CASTELLAR" size=7 color="yellow"> 
+<p align=center> FOURTH FACT ABOUT THE MOON </font> 
+<br>
+
+<hr width=500 height=100 color=black noshade>
+<p align=center>
+<font face="Agency FB" size=7 color="yellow"> DID YOU KNOW? </p>
+
+The moon causes the tides on Earth, due to its gravitational pull. There are two bulges of water on opposite sides of the Earth, one facing the moon and one facing away from it. As the Earth rotates, these bulges move around the oceans, creating high and low tides. The moon’s gravity also causes moonquakes, which are similar to earthquakes but much weaker.
+
+<hr width=500 height=100 color=black noshade>
+<p align=left>
+<font face="Agency FB" size=5 color="yellow"> 
+<a href="D:\MIRANDA\Project\3.html"> LAST PAGE </a> </p>
+
+<p align=right>
+<font face="Agency FB" size=5 color="yellow"> 
+<a href="D:\MIRANDA\Project\5.html"> NEXT PAGE </a> </p>
+
+<p align=center>
+<font face="Agency FB" size=5 color="yellow">
+<a href="D:\MIRANDA\Project\HOMEPAGE.html"> HOME PAGE </a> </p>

@@ -1,0 +1,27 @@
+<html>
+
+<head>
+
+<title> FIRST FACT ABOUT THE MOON </title>
+</head>
+
+<body background="star.gif">
+<font face="CASTELLAR" size=7 color="yellow"> 
+<p align=center> FIRST FACT ABOUT THE MOON </font> 
+<br>
+
+<hr width=500 height=100 color=black noshade>
+<p align=center>
+<font face="Agency FB" size=7 color="yellow"> DID YOU KNOW? </p>
+
+The moon is the only natural satellite of Earth and the fifth-largest satellite in the solar system. It was formed about 4.6 billion years ago, shortly after the formation of the Earth. The moon orbits around the Earth at an average distance of 384,400 km and takes 27.3 days to complete one full cycle.
+
+<hr width=500 height=100 color=black noshade>
+
+<p align=left>
+<font face="Agency FB" size=5 color="yellow">
+<a href="D:\MIRANDA\Project\HOMEPAGE.html"> HOME PAGE </p> </a>
+
+<p align=right>
+<font face="Agency FB" size=5 color="yellow"> 
+<a href="D:\MIRANDA\Project\2.html"> NEXT PAGE </p> </a>

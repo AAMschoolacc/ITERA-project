@@ -1,0 +1,39 @@
+<html>
+
+<head>
+
+<title> HOMEPAGE </title>
+</head>
+
+<body background="msurf.jpg">
+<font face="CASTELLAR" size=7 color="yellow"> 
+<p align=center> 5 FACTS ABOUT THE MOON </font>
+
+<hr width=500 height=100 color=black noshade>
+
+<br>
+<font face="Agency FB" size=6 color="yellow"> <p align=center>
+<a href="D:\MIRANDA\Project\1.html">Page 1</a>
+<br>
+<a href="D:\MIRANDA\Project\2.html">Page 2</a>
+<br>
+<a href="D:\MIRANDA\Project\3.html">Page 3</a>
+<br>
+<a href="D:\MIRANDA\Project\4.html">Page 4</a>
+<br>
+<a href="D:\MIRANDA\Project\5.html">Page 5</a>
+
+<br>
+
+<div id="moon-phase-widget" data-color="white"> </div>
+<script async src="https://cdn.jsdelivr.net/npm/moon-phase-widget@1.5.0/build/automount.min.js">
+
+<br>
+
+<marquee direction=right width=100% scrollamount="25"> <img src="astro.gif" width=25% height=40%>
+</marquee>
+
+</font>
+</p>
+</body>
+</html>

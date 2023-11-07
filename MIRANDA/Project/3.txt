@@ -1,0 +1,31 @@
+<html>
+
+<head>
+
+<title> THIRD FACT ABOUT THE MOON </title>
+</head>
+
+<body background="star.gif">
+<font face="CASTELLAR" size=7 color="yellow"> 
+<p align=center> THIRD FACT ABOUT THE MOON </font> 
+<br>
+
+<hr width=500 height=100 color=black noshade>
+<p align=center>
+<font face="Agency FB" size=7 color="yellow"> DID YOU KNOW? </p>
+
+The moon always shows the same side to the Earth, because it rotates on its own axis at the same rate as it orbits the Earth. This is called synchronous rotation or tidal locking. The side that faces the Earth is called the near side, while the side that faces away is called the far side. The far side was first seen by humans in 1959, when the Soviet spacecraft Luna 3 took pictures of it.
+
+<hr width=500 height=100 color=black noshade>
+
+<p align=left>
+<font face="Agency FB" size=5 color="yellow"> 
+<a href="D:\MIRANDA\Project\2.html"> LAST PAGE </a> </p>
+
+<p align=right>
+<font face="Agency FB" size=5 color="yellow"> 
+<a href="D:\MIRANDA\Project\4.html"> NEXT PAGE </a> </p>
+
+<p align=center>
+<font face="Agency FB" size=5 color="yellow">
+<a href="D:\MIRANDA\Project\HOMEPAGE.html"> HOME PAGE </p> </a>
